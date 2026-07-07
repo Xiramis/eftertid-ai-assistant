@@ -1,2 +1,149 @@
-# eftertid-ai-assistant
-AI-powered bereavement assistant helping families navigate practical, legal and emotional tasks after the loss of a loved one.
+# Eftertid AI Assistant
+
+An AI-powered decision support system for families navigating the practical, legal and emotional challenges after the loss of a loved one.
+
+**Building AI course project**
+
+---
+
+# Summary
+
+Losing a loved one is one of life's most stressful events. During a time of grief, people are expected to manage legal obligations, funeral arrangements, financial matters and countless administrative tasks.
+
+Eftertid AI Assistant combines trusted information with modern AI to provide personalized guidance, helping users understand what needs to be done, when it should be done and where to find reliable information.
+
+---
+
+# Background
+
+After a death, relatives often face an overwhelming amount of information from many different sources.
+
+Common challenges include:
+
+- Understanding the legal process
+- Planning a funeral
+- Contacting authorities
+- Managing bank accounts and insurance
+- Handling inheritance and probate
+- Closing digital accounts
+- Knowing what should happen first
+
+While information exists, it is scattered across government websites, municipalities, banks, funeral homes and legal services.
+
+My motivation comes from my experience within the funeral industry and from building Eftertid.se, where I have seen first-hand how difficult it can be for families to find trustworthy and understandable guidance during one of the hardest periods of their lives.
+
+The goal is not to replace funeral directors, lawyers or government agencies. Instead, the system should help people find the right information faster and present it in a calm, personalized and easy-to-understand way.
+
+---
+
+# How is it used?
+
+The assistant works as an interactive decision support system.
+
+Instead of only answering questions, it first learns about the user's situation by asking relevant follow-up questions.
+
+For example:
+
+> "My father passed away yesterday. What should I do first?"
+
+The assistant may then ask:
+
+- Which country are you located in?
+- Has a funeral home been contacted?
+- Was there a will?
+- Is burial or cremation planned?
+- Did the deceased own property?
+- Are there close relatives involved?
+
+Based on the answers, the AI generates:
+
+- A personalized checklist
+- Step-by-step explanations
+- Links to trusted official sources
+- Recommended next actions
+- Important deadlines
+
+The assistant could also help funeral professionals answer common questions more efficiently.
+
+---
+
+# Data sources and AI methods
+
+The project relies on trustworthy and publicly available information rather than relying solely on the AI model's built-in knowledge.
+
+Potential data sources include:
+
+- Government agencies
+- Funeral legislation
+- Municipal information
+- Banks
+- Insurance companies
+- Funeral industry organizations
+- Eftertid.se articles and guides
+- Frequently asked questions
+
+Possible AI techniques include:
+
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Semantic Search
+- Natural Language Processing
+- Question Answering
+- Information Retrieval
+- Document Classification
+
+Using Retrieval-Augmented Generation allows the assistant to retrieve current information before generating an answer, reducing the risk of hallucinations.
+
+---
+
+# Challenges
+
+The project has important limitations.
+
+It should never replace:
+
+- Legal advice
+- Medical advice
+- Financial advice
+- Funeral professionals
+
+Other challenges include:
+
+- Regulations differ between countries.
+- Laws change over time.
+- Information from external sources may become outdated.
+- AI systems can generate incorrect answers.
+- Personal information must be handled according to GDPR.
+- Sensitive conversations require empathy that AI cannot fully provide.
+
+For this reason, the assistant should always reference trusted sources whenever possible.
+
+---
+
+# What next?
+
+Future versions could include:
+
+- Country-specific guidance
+- Integration with public e-services
+- Secure document storage
+- Automatic document generation
+- Voice interaction
+- Translation into multiple languages
+- Personalized timelines
+- Support for funeral homes and municipalities
+
+Long-term, the project could evolve into a comprehensive digital companion throughout the entire bereavement journey.
+
+---
+
+# Acknowledgments
+
+This project was inspired by:
+
+- The Elements of AI – Building AI course
+- My work within the funeral industry
+- Eftertid.se
+- Research into grief support and digital public services
+- Modern Retrieval-Augmented Generation (RAG) techniques
+- OpenAI and the broader AI research community

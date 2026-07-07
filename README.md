@@ -1,18 +1,14 @@
 # Eftertid AI Assistant
 
-An AI-powered decision support system that helps families navigate the practical, legal, and emotional challenges following the loss of a loved one.
-
-**Building AI course project**
-
----
+Building AI course project
 
 ## Summary
+
+An AI-powered decision support system that helps families navigate the practical, legal, and emotional challenges following the loss of a loved one.
 
 Losing a loved one is one of life's most stressful experiences. During a period of grief, people are expected to manage legal obligations, funeral arrangements, financial matters, and countless administrative tasks.
 
 Eftertid AI Assistant combines trusted information with modern AI to provide personalized guidance, helping users understand what needs to be done, when it should be done, and where to find reliable information.
-
----
 
 ## Background
 
